@@ -10,7 +10,7 @@ pyowm==2.8.0
 Pygments==2.2.0
 pyparsing==2.2.0
 python-telegram-bot==7.0.1
-requests==2.13.0
+requests==2.20.0
 pyTelegramBotAPI==3.6.7
 COVID19Py==0.3.0
 six==1.10.0
